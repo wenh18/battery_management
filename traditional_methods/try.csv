@@ -1,0 +1,2 @@
+cell_key,minimum_dQ_100_10,variance_dQ_100_10,skewness_dQ_100_10,kurtosis_dQ_100_10,slope_lin_fit_2_100,intercept_lin_fit_2_100,discharge_capacity_2,diff_discharge_capacity_max_2,mean_charge_time_2_6,minimum_IR_2_100,diff_IR_100_2,minimum_dQ_5_4,variance_dQ_5_4,cycle_life,cycle_550_clf
+4-3,1.0966134333977129,-5.938304305508886,-2.202472209499733,-0.279374857086823,-0.1422725736274313,1172.2534854714952,1174.5976,0.0,1855.2,9999,9999,9999,9999,1142,9999
